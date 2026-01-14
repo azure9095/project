@@ -1,0 +1,7 @@
+{
+  "name": "Interior Frame Visualizer",
+  "description": "Upload a photo of your living room, calibrate dimensions by marking a known object, and visualize custom-sized frames on your wall with accurate scaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
